@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "Interactive_Novel": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}
